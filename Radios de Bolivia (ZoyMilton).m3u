@@ -1,0 +1,317 @@
+#EXTM3U
+El contenido es propiedad de ZoyMilton.
+Contacto: 60733371 Cochabamba - Bolivia.
+
+La siguiente se actualiza mensualmente, añadiendo nuevas estaciones y logos.
+
+
+RADIOS DE BOLIVIA
+
+#EXTINF:-1 tvg-ID="" tvg-name="DIGITAL MONTERREY" tvg-logo="https://lanube.zoymilton.com/s/broGfmiRW7ZWz5g/preview" group-title="☆ RADIOS 🇧🇴 ☆",DIGITAL (MONTERREY)
+https://playerservices.streamtheworld.com/api/livestream-redirect/DIGITAL_1029FM.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="ZOY MILTON RADIO" tvg-logo="https://lanube.zoymilton.com/s/F9ng6jAPWWEigFk/preview" group-title="☆ RADIOS 🇧🇴 ☆",**ZOY MILTON RADIO**
+https://icepool.silvacast.com/GAYFM.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SANTA CLAUS" tvg-logo="https://lanube.zoymilton.com/s/rCwfNqyaZBkNMyF/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO SANTA CLAUS
+https://streaming.radiostreamlive.com/radiosantaclaus_devices?
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA TROPICAL" tvg-logo="https://lanube.zoymilton.com/s/PYER3F9EemkatmP/preview" group-title="☆ RADIOS 🇧🇴 ☆",CUMBIA 90s (CBBA)
+https://stream-52.zeno.fm/5fem3av76avvv?zs=IqAk8tfBTYKP2x8QtwvRew
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO OXÍGENO PERÚ" tvg-logo="https://lanube.zoymilton.com/s/aP9E3tMGyL5qmnS/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO OXÍGENO PERÚ
+https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/5fab0687bcd6c2389ee9480c?aid=5faaeb72f92d7b07dfe10181&pid=PYnSIv8gFoyL0W7bBcVB2Q3UuXLlKb0m&sid=YIMHcYtvqb8b339efzHv94u19mgDfoUt&uid=EtjgK1bKRCwOZ1Q2DwteUHwOpHPjpxUO&es=us-b5-p-e-kj2-audio.cdn.mdstrm.com&ote=1668559651395&ot=uu6Rr2ziSyAR_qdWdxq8zA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab0687bcd6c2389ee9480c&referer=https%3A%2F%2Fradios.com.pe%2F
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",DIANA D (Cbba)
+http://radio.habilweb.com/8006/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="ZoyCOUNTRY" tvg-logo="https://fility.com/wp-content/uploads/2020/07/country108.png" group-title="☆ RADIOS 🇧🇴 ☆",ZoyCOUNTRY
+https://icepool.silvacast.com/COUNTRY108.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="LOS 90's" tvg-logo="https://lanube.zoymilton.com/s/tXAoAwtBdprQaYW/preview" group-title="☆ RADIOS 🇧🇴 ☆",LOS 90's
+https://tuner.m1.fm/90er.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="LOS 80's" tvg-logo="https://lanube.zoymilton.com/s/tXAoAwtBdprQaYW/preview" group-title="☆ RADIOS 🇧🇴 ☆",LOS 80's
+https://tuner.m1.fm/80er.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="COMPAÑERA" tvg-logo="https://lanube.zoymilton.com/s/4Yj3degdktZDcTq/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO COMPAÑERA (LP)
+http://perseus.shoutca.st:8960/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="FMDOS" tvg-logo="https://lanube.zoymilton.com/s/Z7DQ7Dx3kFMNjxs/preview" group-title="☆ RADIOS 🇧🇴 ☆",FMDOS (CHILE)
+https://26503.live.streamtheworld.com/FMDOSAAC.aac
+
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Ultra" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ULTRA (PUNATA)
+https://ares.disfrutaenlared.com:10985/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ALTURA" tvg-logo="https://lanube.zoymilton.com/s/q9bsJA29zjPGNj5/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ALTURA (CBBA)
+http://node-21.zeno.fm/5xe135yyc6quv?1614032542432=&rj-tok=AAABd8vfRPcAx7fu-wEu6bQSPQ&rj-ttl=5
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SAN GABRIEL" tvg-logo="https://lanube.zoymilton.com/s/dFr5myyppWc3fHA/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO SAN GABRIEL AM (EL ALTO)
+https://spanel.gcomstreaming.com:7003/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SAN GABRIEL" tvg-logo="https://lanube.zoymilton.com/s/dFr5myyppWc3fHA/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO SAN GABRIEL FM (EL ALTO)
+https://spanel.gcomstreaming.com:7004/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO DESEO" tvg-logo="https://lanube.zoymilton.com/s/Kpbm5XNCWsyX8xy/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO DESEO (LP)
+https://conectperu.com/8046/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO INTEGRACIÓN" tvg-logo="https://lanube.zoymilton.com/s/HHGLR4WS6K9BkPJ/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO INTEGRACIÓN (EL ALTO)
+http://stream.nepsum.com:9000/radiointegracion.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO QHANA" tvg-logo="https://lanube.zoymilton.com/s/gqJtBBxzfkAGmcp/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO QHANA (LP)
+http://163.172.8.18:8017/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO EL DEBER" tvg-logo="https://lanube.zoymilton.com/s/rQwHgKtKT787Zs7/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO EL DEBER (SCZ)
+http://62.210.24.124:8612/live
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO UB" tvg-logo="https://lanube.zoymilton.com/s/DEGmHxwkY5zLkqY/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO UB
+http://stream.codigosur.org:8000/RadioComunitariaUCB.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO IYAMBAE SCZ" tvg-logo="https://lanube.zoymilton.com/s/R9DAcX5JE7qaj63/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO IYAMBAE (SCZ)
+https://eu8.fastcast4u.com/proxy/ideasuni?mp=/1
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ACTIVA SCZ" tvg-logo="https://lanube.zoymilton.com/s/sm797F6ZDJNq87R/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ACTIVA (SCZ)
+http://streamserver.ml:7002/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO TAYPI" tvg-logo="https://lanube.zoymilton.com/s/yw5XWzoc8CfDWF4/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO TAYPI (LP)
+http://cast.streamingsitios.com:8027/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SPLENDID" tvg-logo="https://lanube.zoymilton.com/s/9wNoFM8tKg9x2yZ/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO SPLENDID (LP)
+http://stm7.streaming.profesional.bo:11304//;stream.nsv&type=mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="CÉSAR RADIO ROCK" tvg-logo="https://lanube.zoymilton.com/s/iEtyZjQYdX4xKTW/preview" group-title="☆ RADIOS 🇧🇴 ☆",CÉSAR RADIO ROCK
+https://stream.zenolive.com/sb1x2nz6s9duv
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LATINA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO LATINA
+http://s9.viastreaming.net:7045/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ELECTRA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ELECTRA
+https://node-15.zeno.fm/0q9z2s5h22quv
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ENERGY" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ENERGY
+http://5.135.183.124:9513/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ENERGY" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",ADICTIVA RADIO
+http://node-08.zeno.fm/y2ysdz9hswzuv?rj-ttl=5&rj-tok=AAABchCxmwIAoop3-NVXiKjRuQ
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SUPER FM" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO SUPER FM
+http://138.197.156.231:8733/live
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO JHV" tvg-logo="https://lanube.zoymilton.com/s/xnsa32zYpoMJonD/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO JHV
+http://radios.istbolivia.com:9898/;stream.nsv
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ABEL PRIETO" tvg-logo="https://lanube.zoymilton.com/s/CFLZL7PGNssb9HS/preview" group-title="☆ RADIOS 🇧🇴 ☆",ABEL PRIETO
+https://player.xcast.com.br/proxy/8410
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO MODA" tvg-logo="https://lanube.zoymilton.com/s/YAWZnNxKNAdgDDR/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO MODA (CBBA)
+http://199.195.194.140:8156/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO PANAMERICANA" tvg-logo="https://lanube.zoymilton.com/s/p4qiqxc9QX8G3BL/preview" group-title="☆ RADIOS 🇧🇴 ☆",PANAMERICANA (LP)
+http://realserver5.megalink.com:8070/;&lang=sp&codec=mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO PIO XII" tvg-logo="https://lanube.zoymilton.com/s/wxMYM2jqnMz92mN/preview" group-title="☆ RADIOS 🇧🇴 ☆",PIO XII (CBBA)
+http://aler.org:8000/pio12cbba.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO PIO XII" tvg-logo="https://lanube.zoymilton.com/s/wxMYM2jqnMz92mN/preview" group-title="☆ RADIOS 🇧🇴 ☆",PIO XII (ORURO)
+http://aler.org:8000/pio12oruro.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CARRASCO" tvg-logo="https://lanube.zoymilton.com/s/J2LadZt69z5pmse/preview" group-title="☆ RADIOS 🇧🇴 ☆",CARRASCO (IVIRGARZAMA)
+http://163.172.8.18:8040/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CHACALTAYA" tvg-logo="https://lanube.zoymilton.com/s/qb39dBejgSMge8A/preview" group-title="☆ RADIOS 🇧🇴 ☆",CHACALTAYA (LP)
+http://stream.servionbolivia.red:9364/stream/1/
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FM BOLIVIA" tvg-logo="https://lanube.zoymilton.com/s/48RmT8Q27fTRM4R/preview" group-title="☆ RADIOS 🇧🇴 ☆",FM BOLIVIA (LOS YUNGAS)
+http://stm11.streaming.profesional.bo:11300/stream/1/
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CLÁSICA" tvg-logo="https://lanube.zoymilton.com/s/wR7QgPMHaEf9SS3/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO CLÁSICA (CBBA)
+http://radios.istbolivia.com:9976/stream/1/
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO MARÍA" tvg-logo="https://lanube.zoymilton.com/s/8rXqzFJepHRDXiY/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO MARÍA
+http://dreamsiteradiocp4.com:8022/stream/1/
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO INTEGRACIÓN" tvg-logo="https://lanube.zoymilton.com/s/nwgtpDLn9cBdSBB/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO INTEGRACIÓN (MONTERO)
+http://62.210.24.124:8339/live
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LA DOBLE 8" tvg-logo="https://lanube.zoymilton.com/s/jfLSPBbLES6ebFN/preview" group-title="☆ RADIOS 🇧🇴 ☆",LA DOBLE 8 (LP)
+http://209.133.216.3:7368/live
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO MAJESTAD" tvg-logo="https://lanube.zoymilton.com/s/PGojcKAteAT6cLE/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO MAJESTAD (EL ALTO)
+http://stm28.srvstm.com:24214/stream/1/
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO AMÉRICA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",AMÉRICA
+http://204.197.245.100:8236/stream/1/
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ENCUENTRO" tvg-logo="https://lanube.zoymilton.com/s/snNrxZQ9iHrYaBN/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ENCUENTRO (SUCRE)
+http://zeus.imd.la:6014/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO DISNEY" tvg-logo="https://lanube.zoymilton.com/s/9iowBAjotFsFbfb/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO DISNEY (LP)
+http://144.217.67.108:9156/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO INTEGRACIÓN" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO INTEGRACIÓN (LP)
+http://stream.nepsum.com:9000/radiointegracion.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO PASIÓN BOLIVIANA" tvg-logo="https://lanube.zoymilton.com/s/HZimFtMYcgpagZM/preview" group-title="☆ RADIOS 🇧🇴 ☆",PASIÓN BOLIVIANA (LP)
+http://realserver2.megalink.com:8140/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO STAR" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO STAR (LP)
+https://node-25.zeno.fm/3g5c5ez8n0quv?rj-ttl=5&rj-token=AAABbYk91yRzy8Ry2_xuj-yYAtAFACDAzs776YNmPKnWVvTA2PhqnQ
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO MORENA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO MORENA (CBBA)
+https://node-08.zeno.fm/7r207c68seruv?rj-ttl=5&rj-token=AAABbYlE4-08R9xSfRDmXKQyV5VKkRkSGB1b2lg7_09f_ZS0kJZO4g
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FIDES" tvg-logo="https://lanube.zoymilton.com/s/yzfQ4Njo2SptGtW/preview" group-title="☆ RADIOS 🇧🇴 ☆",FIDES (ORURO)
+http://192.99.17.12:6358/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FIDES" tvg-logo="https://lanube.zoymilton.com/s/yzfQ4Njo2SptGtW/preview" group-title="☆ RADIOS 🇧🇴 ☆",FIDES (LP)
+http://192.99.17.12:6358/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FIDES" tvg-logo="https://lanube.zoymilton.com/s/yzfQ4Njo2SptGtW/preview" group-title="☆ RADIOS 🇧🇴 ☆",FIDES (CBBA)
+http://149.56.175.167:5654/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FIDES" tvg-logo="https://lanube.zoymilton.com/s/yzfQ4Njo2SptGtW/preview" group-title="☆ RADIOS 🇧🇴 ☆",FIDES (TARIJA)
+http://149.56.175.167:5008/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FIDES" tvg-logo="https://lanube.zoymilton.com/s/yzfQ4Njo2SptGtW/preview" group-title="☆ RADIOS 🇧🇴 ☆",FIDES (POTOSÍ)
+http://192.99.17.12:6440/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FIDES" tvg-logo="https://lanube.zoymilton.com/s/yzfQ4Njo2SptGtW/preview" group-title="☆ RADIOS 🇧🇴 ☆",FIDES (SCZ)
+http://192.99.17.12:5917/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FIDES" tvg-logo="https://lanube.zoymilton.com/s/yzfQ4Njo2SptGtW/preview" group-title="☆ RADIOS 🇧🇴 ☆",FIDES (SUCRE)
+http://192.99.17.12:6310/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FIDES" tvg-logo="https://lanube.zoymilton.com/s/yzfQ4Njo2SptGtW/preview" group-title="☆ RADIOS 🇧🇴 ☆",FIDES (YACUIBA)
+http://149.56.175.167:5064/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO PLAY" tvg-logo="https://lanube.zoymilton.com/s/MXQ4tQ5HDe63MFN/preview" group-title="☆ RADIOS 🇧🇴 ☆",PLAY (LP)
+http://162.253.35.125:9300/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO EL TRINITARIO" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",EL TRINITARIO
+http://ca.radioboss.fm:8062/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CIUDAD" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO CIUDAD (MONTERO)
+http://163.172.8.18:8002/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FUTBOLMANÍA" tvg-logo="https://lanube.zoymilton.com/s/5xxgJdiXYwbXTZP/preview" group-title="☆ RADIOS 🇧🇴 ☆",FUTBOLMANÍA
+http://stream.servionbolivia.red:9458/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO APOYO" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO APOYO (LP)
+http://70.32.30.150:9003/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO U Nuestra Sra de La Paz" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",U Nuestra Sra de La Paz (LP)
+http://138.197.156.231:8150/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SUDAMERICANA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO SUDAMERICANA (SCZ)
+http://stream.zenolive.com/kbd259hqd6quv/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO MÁGICA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",MÁGICA (CBBA)
+http://162.253.35.125:9306/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CORONA FM" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",CORONA FM (CBBA)
+http://138.197.156.231:8030/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LA BRUJA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",LA BRUJA (SUCRE)
+http://104.248.51.135:8000/caliente
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO PERLA del ACRE" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",PERLA del ACRE (PANDO)
+http://70.32.30.150:9053/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SANTA SECILIA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",SANTA SECILIA (ORURO)
+http://stm1.srvstm.net:23078/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ABIGAIL" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",ABIGAIL (ENTRE RÍOS) 
+http://radios.istbolivia.com:9394/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO GUADALUPE" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",GUADALUPE (LLALLAGUA)
+http://radios.istbolivia.com:9304/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FELICIDAD" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO YASITATA (CHARAGUA)
+http://radios.istbolivia.com:9340
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LA PATRIA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",LA PATRIA (TARIJA)
+http://radios.istbolivia.com:9306
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO NEVADITA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",NEVADITA (SUCRE)
+http://reseller01.shockmedia.com.ar:9030/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LA BONITA FM" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",LA BONITA FM (CBBA)
+http://radios.istbolivia.com:9986/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO URKUPIÑA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO URKUPIÑA (TUPIZA)
+http://radios.istbolivia.com:9314
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO PASAJES YUNCHARA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",PASAJES YUNCHARA (TARIJA)
+http://radios.istbolivia.com:9312/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO MELODÍA YUNGUEÑA" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO MELODÍA (YUNGAS)
+http://radios.istbolivia.com:9366
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CONCIERTO" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",CONCIERTO (YACUIBA)
+http://radios.istbolivia.com:9356/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FRAY QUEBRACHO" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",FRAY QUEBRACHO (YACUIBA)
+http://163.172.8.18:8043/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO WAYNA P'UTUQSI" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",WAYNA P'UTUQSI
+http://radios.istbolivia.com:9356
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CENTRO FM" tvg-logo="https://lanube.zoymilton.com/s/BBzaaCgNPjqMCzL/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO CENTRO FM (CBBA)
+https://radio.yoemito.net:8004/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO UNIVERSAL FM" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",RADIO UNIVERSAL FM (CBBA)
+https://radio.yoemito.net:8000/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO SAN SIMÓN" tvg-logo="https://lanube.zoymilton.com/s/5EY9Mkg46oZW66N/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO SAN SIMÓN (CBBA)
+https://radio.yoemito.net:8026/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO UCB" tvg-logo="https://lanube.zoymilton.com/s/NAxZi34LDaTpzm5/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO UCB (CBBA)
+http://stream.codigosur.org:8000/RadioComunitariaUCB.mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="ROCA FM" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dpvbwfbv4mt8.jpg" group-title="☆ RADIOS 🇧🇴 ☆",ROCA FM (SUCRE)
+https://xxdelgado.radioca.st/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4dewxrm46zxg.png" group-title="☆ RADIOS 🇧🇴 ☆",RADIO LÍDER (SUCRE)
+http://node-26.zeno.fm/681s6yxxdnzuv?rj-ttl=5&rj-tok=AAABeD7kPlEA4_AjwH1SvtuQwA
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/54ywlwa3e4nw.jpg" group-title="☆ RADIOS 🇧🇴 ☆",RADIO CORREO DEL SUR (SUCRE)
+https://whsh4u-panel.com/proxy/gddupgij?mp=%2Fstream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2a9eyctmp4cm.png" group-title="☆ RADIOS 🇧🇴 ☆",RADIO MUNDIAL (CBBA)
+http://63.247.91.178:12234/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/apsklasgv32a.jpg" group-title="☆ RADIOS 🇧🇴 ☆",RADIO MEGA DJ (CBBA)
+http://node-15.zeno.fm/zyu31nv6twzuv?rj-ttl=5&rj-tok=AAABeD7olacAg7sH2mTCJ7wxLA
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/amcfnmnnkusg.png" group-title="☆ RADIOS 🇧🇴 ☆",RADIO CONTINENTAL (CBBA)
+http://node-14.zeno.fm/xrps7z7rnwzuv?rj-ttl=5&rj-tok=AAABeD7q-bgATjBeFd5XKXbppQ
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fpnsmemfythb.png" group-title="☆ RADIOS 🇧🇴 ☆",RADIO UNO (CBBA)
+http://node-12.zeno.fm/nst95mra8bruv?rj-ttl=5&rj-tok=AAABeD7sGtUAGqrq9zfuyxeqqw
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4382ymgqkex8.png" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ESTRELLA (CBBA)
+http://200.58.82.171:8000/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/smwhstalm4nu.png" group-title="☆ RADIOS 🇧🇴 ☆",RADIO LA BONITA (CBBA)
+http://radios.istbolivia.com:9986/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uv8dgvpbtvk3.jpg" group-title="☆ RADIOS 🇧🇴 ☆",RADIO GIGANTE (LP)
+http://stm18.srvstm.com:7686/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tdgrhdnhbde6.png" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ÉXITO (LP)
+http://stream.servionbolivia.red:9458/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/un5nrzhv2kff.png" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ES LATINO (LP)
+http://stm11.streaming.profesional.bo:11296/;stream.mp3&type=mp3
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://lanube.zoymilton.com/s/jbDQSMSn9q75q4C/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ANCORAIMES (LP)
+https://sonic1.transmissaodigital.com/8116/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://lanube.zoymilton.com/s/xEwp8EbCNAzNTFg/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO AQUÍ LA PRENSA
+http://realserver2.megalink.com:8140/;
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://lanube.zoymilton.com/s/Hm645XtETPjBAMM/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ACLO AM SUCRE
+https://cloudstream2030.conectarhosting.com/8192/stream
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO LÍDER" tvg-logo="https://lanube.zoymilton.com/s/Hm645XtETPjBAMM/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO ACLO FM SUCRE
+https://cloudstream2030.conectarhosting.com/8228/stream
