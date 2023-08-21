@@ -13,6 +13,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DIGITAL_1029FM
 #EXTINF:-1 tvg-ID="" tvg-name="ZOY MILTON RADIO" tvg-logo="https://lanube.zoymilton.com/s/F9ng6jAPWWEigFk/preview" group-title="☆ RADIOS 🇧🇴 ☆",**ZOY MILTON RADIO**
 https://icepool.silvacast.com/GAYFM.mp3
 
+#EXTINF:-1 tvg-ID="" tvg-name="ZOY MILTON RADIO" tvg-logo="https://lanube.zoymilton.com/s/F9ng6jAPWWEigFk/preview" group-title="☆ RADIOS 🇧🇴 ☆",**ZOY MILTON 80**
+https://icepool.silvacast.com/80ERFM.mp3
+
 #EXTINF:-1 tvg-ID="" tvg-name="RADIO SANTA CLAUS" tvg-logo="https://lanube.zoymilton.com/s/rCwfNqyaZBkNMyF/preview" group-title="☆ RADIOS 🇧🇴 ☆",RADIO SANTA CLAUS
 https://streaming.radiostreamlive.com/radiosantaclaus_devices?
 
